@@ -7,6 +7,15 @@
 [discussions]:        https://github.com/orgs/sfz/discussions/
 [opcode-suggestions]: https://github.com/sfz/opcode-suggestions/
 
+## Documentation
+
+- [ARIA]: ARIA engine XML files documentation
+- [sfz]:  sfz format documentation
+
+
+[ARIA]: https://sfz.github.io/aria/
+[sfz]:  https://sfzformat.com
+
 ## Tools
 
 - [tests]: Regression test suite, thanks to René Ceballos and Plogue 
